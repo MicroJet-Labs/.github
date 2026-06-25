@@ -18,12 +18,12 @@ it will be available here.)
 
 ## 📋 Content
 
-- [Features](#-বৈশিষ্ট্য)
-- [Quick start](#-দ্রুত-শুরু)
-- [CLI commands](#-cli-কমান্ড)
-- [Examples](#-উদাহরণ)
-- [Architecture](#-আর্কিটেকচার)
-- [Documentation](#-ডকুমেন্টেশন)
+- [Features](#-Features)
+- [Quick start](#-Quick-Start)
+- [CLI commands](#-cli-commands)
+- [Examples](#-examples)
+- [Architecture](#-architecture)
+- [Documentation](#-documentation)
 
 ---
 
