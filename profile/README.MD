@@ -1,4 +1,4 @@
-![Description](assets/image.png)
+![Description](profile/9d826cde-9c7e-460c-8fca-e458af2d2e9c-removebg-preview.jpg)
 
 #  MicroJet
 
