@@ -1,5 +1,6 @@
+![Description](assets/image.png)
 
-# 🚀 MicroJet - Modern Python Web Framework
+#  MicroJet
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
